@@ -1,0 +1,13 @@
+.fixed {
+  position: fixed;
+  top: 0;
+  width: 300px;
+}
+.left {
+  float:left;
+  width:300px;
+}
+.right {
+  float:right;
+  width:300px;
+}
